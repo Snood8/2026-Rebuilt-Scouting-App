@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d30d0ac9-93fe-4c35-a2ec-fec51907c538" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d30d0ac9-93fe-4c35-a2ec-fec51907c538" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,5 +173,21 @@
       <updated>1765238818427</updated>
     </task>
     <servers />
+  </component>
+  <component name="play_dynamic_filters_status">
+    <option name="appIdToCheckInfo">
+      <map>
+        <entry key="org.iowacityrobotics.rebuiltscoutingapp2026">
+          <value>
+            <CheckInfo lastCheckTimestamp="1766448673711" />
+          </value>
+        </entry>
+        <entry key="org.iowacityrobotics.rebuiltscoutingapp2026.test">
+          <value>
+            <CheckInfo lastCheckTimestamp="1766448673708" />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
